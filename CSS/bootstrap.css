@@ -60,10 +60,11 @@
     line-height: 1.5;
     color: #212529;
     text-align: left;
-    margin-bottom: 75px;
     background-color: #fff;
     background-image: url("/Users/mdmead77/Bootcamp/Homework/Bootstrap-Portfolio/images/herringbone.png");
     background-repeat: repeat;
+    margin-bottom: 75px;
+    padding-bottom: 60px;
   }
 
   footer {
@@ -93,6 +94,10 @@
   #bio-image {
     float: left;
     padding-right: 15px;
+  }
+
+  #main-bio {
+    line-height: 24pt;
   }
 
   .nav-item {
