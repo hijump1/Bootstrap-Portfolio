@@ -89,6 +89,23 @@
     margin-right: auto;
     margin-top: 60px;
   }
+
+  #bio-image {
+    float: left;
+    padding-right: 15px;
+  }
+
+  .nav-item {
+      float: right;
+      text-transform: uppercase;
+  }
+
+  .navbar-brand {
+    text-transform: uppercase;
+    color: white;
+    background-color: #4aaaa5;
+    padding: 20px;
+  }
   
   [tabindex="-1"]:focus:not(:focus-visible) {
     outline: 0 !important;
