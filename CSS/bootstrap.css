@@ -91,6 +91,17 @@
     margin-top: 60px;
   }
 
+  figcaption {
+    color: #ffffff;
+    background-color: #4aaaa5;
+    padding: 12px;
+    display: block;
+    position: absolute;
+    width: 300px;
+    bottom: 30px;
+    text-align: center;
+}
+
   #bio-image {
     float: left;
     padding-right: 15px;
