@@ -1,0 +1,34 @@
+
+
+.container {
+        width: 960px;
+        height: auto;
+        background-color: #ffffff;
+        /* margin-top: 20px;
+        margin-bottom: 60px; */
+    }
+
+    .clearfix:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+    figcaption {
+        color: #ffffff;
+        background-color: #4aaaa5;
+        padding: 20px;
+        display: block;
+        float: left;
+        position: relative;
+        bottom: 65px;
+        tex
+        
+    h1 {
+    color: #4aaaa5;
+      }
+
+      #sticky-footer {
+        flex-shrink: none;
+        background-color: #f5f5f5;
+      }
